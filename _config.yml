@@ -11,8 +11,8 @@ author: PNP @ FiRRM
 navbar-links:
   #About Me: "aboutme"
   Resources:
-    - Moodle: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Moodle: "https:/moodle.tu-dortmund.de"
+    - Lecture Overview: "lecture.md"
   Home: "https://www.finance.wiwi.tu-dortmund.de"
 
 # Image to show in the navigation bar - works best with a square image
@@ -24,7 +24,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/logo.png
+title-img: /assets/firrm.jpg
 
 
 #####################################
